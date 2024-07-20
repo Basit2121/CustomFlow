@@ -4,3 +4,5 @@ organizing files, or even grinding games, Custom Flow provides the flexibility t
 create custom automations tailored to your specific needs. By taking care of the
 mundane, Custom Flow frees up valuable time that can be better spent on
 activities.
+
+![Image](https://github.com/Basit2121/CustomFlow/blob/main/Capture.PNG)
